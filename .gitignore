@@ -94,3 +94,4 @@ activate/*
 
 # Misc
 *.DS_Store
+*.pkl
